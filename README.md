@@ -36,4 +36,4 @@ cd financial-simulator
 
 3. Build and run the Main.java file.
 
-![App Interface](<Screenshot 2024-12-03 223606.png>)
+![UI Preview](<Screenshot 2024-12-03 223606.png>)
