@@ -30,10 +30,10 @@ A Java-based financial simulation tool with a graphical user interface (GUI) tha
 ```bash
 git clone https://github.com/yourusername/financial-simulator.git
 cd financial-simulator
-
+```
 
 2. Open the project in your Java IDE.
 
 3. Build and run the Main.java file.
 
-![alt text](<Screenshot 2024-12-03 223606.png>)
+![App Interface](<Screenshot 2024-12-03 223606.png>)
