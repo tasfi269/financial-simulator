@@ -1,0 +1,2 @@
+create database financialSimulator;
+use financialSimulator;
